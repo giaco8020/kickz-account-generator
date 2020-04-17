@@ -1,5 +1,5 @@
 # kickz-account-generator
-just for fun
+https://www.kickz.com/ account generator
 
 -- requirements python --
 lib requests ,
